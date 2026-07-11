@@ -32,10 +32,6 @@
 |------|-----|------|------|
 | OnePlus Ace 5 Pro | SM8750 (8 Elite) | Android 15 / ZeroTermux | ✅ 正常 |
 
-## 许可
-
-MIT
-
 
 ## 部署成功参考图
 
@@ -44,3 +40,7 @@ MIT
 
 ### PWA 页面
 ![PWA页面](部署成功参考图/pwa页面.png)
+## 使用到的开源项目
+- ZeroTermux(https://github.com/hanxinhao000/ZeroTermux)
+- Termux(https://github.com/termux/termux-app)
+- Moekoe_music(https://github.com/MoeKoeMusic/MoeKoeMusic)
