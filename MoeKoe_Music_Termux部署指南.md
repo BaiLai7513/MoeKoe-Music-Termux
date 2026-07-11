@@ -252,6 +252,6 @@ pkill -f "npx vite"
 
 ---
 
-> 最后更新：2026-07-06
+> 最后更新：2026-07-12
 > 设备：骁龙 8 Elite (SM8750) / ZeroTermux / Node.js v25  
 > 项目：MoeKoe Music — 高颜值酷狗第三方播放器
