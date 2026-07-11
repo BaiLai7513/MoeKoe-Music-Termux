@@ -204,12 +204,12 @@ http://localhost:8080
 
 ```bash
 cd ~/MoeKoeMusic
-git stash                      # 暂存移动端 CSS 修改
+git stash                      # 暂存移动端 CSS 修改(使用步骤八方案可省略过）
 git pull
 git submodule update --remote --merge
 npm install --ignore-scripts   # 如有新依赖
 cd api && npm install && cd ..
-git stash pop                  # 恢复移动端 CSS
+git stash pop                  # 恢复移动端 CSS(使用步骤八方案可省略过）
 ```
 
 > 如 stash pop 有冲突，手动将第四步的 `<style>` 块重新插入 `index.html` 即可。
@@ -217,7 +217,7 @@ git stash pop                  # 恢复移动端 CSS
 重启：
 
 ```bash
-# 先停掉旧进程（Ctrl+C），然后
+# 先停掉旧进程（停用zerotermux/termux），然后重启启动即可
 ~/moekoe
 ```
 
