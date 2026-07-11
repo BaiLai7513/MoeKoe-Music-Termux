@@ -7,8 +7,8 @@
 
 - Android 设备（ARM64架构）
 - ZeroTermux（或标准 Termux）
-- 网络连接(Watt Toolkit，小猫咪，国内代理源如清华大学代理源等）
-- Ai软件（可选建议deepseek或者付费AI可选卡住复制代码问题直接问）
+- 网络连接(Watt Toolkit，clash/flclash，国内代理源如清华大学代理源等）
+- Ai软件（可选）
 
 ---
 
