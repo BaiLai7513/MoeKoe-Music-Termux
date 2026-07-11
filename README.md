@@ -1,6 +1,6 @@
 # MoeKoe Music — Termux 部署指南
 
-在 Android ARM64 设备上，用 ZeroTermux + Node.js 直跑 [MoeKoe Music](https://github.com/MakcRe/MoeKoeMusic)（酷狗第三方高颜值播放器），无需 Docker、无需 Electron。
+在 Android ARM64 设备上，用 ZeroTermux + Node.js 直跑 [MoeKoe Music](https://github.com/MoeKoeMusic/MoeKoeMusic)（酷狗第三方高颜值播放器），无需 Docker、无需 Electron。
 
 ## 适用场景
 - 在安卓端用上moekoe_music
