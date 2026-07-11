@@ -32,8 +32,6 @@
 |------|-----|------|------|
 | OnePlus Ace 5 Pro | SM8750 (8 Elite) | Android 15 / ZeroTermux | ✅ 正常 |
 
-##  部署成功参考图
-
 ## 许可
 
 MIT
