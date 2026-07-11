@@ -3,7 +3,7 @@
 在 Android ARM64 设备上，用 ZeroTermux + Node.js 直跑 [MoeKoe Music](https://github.com/MakcRe/MoeKoeMusic)（酷狗第三方高颜值播放器），无需 Docker、无需 Electron。
 
 ## 适用场景
-
+- 在安卓端用上moekoe_music
 - 手上有一台闲置 Android 手机，想跑个私人音乐服务器
 - 不想用 Docker / 不想折腾云服务器
 - 需要 PWA 桌面全屏体验（类原生 App）
