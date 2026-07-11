@@ -37,3 +37,12 @@
 ## 许可
 
 MIT
+
+
+## 部署成功参考图
+
+### ZeroTermux + PWA 页面
+![ZeroTermux+PWA](部署成功参考图/zerotermux+pwa页面.png)
+
+### PWA 页面
+![PWA页面](部署成功参考图/pwa页面.png)
