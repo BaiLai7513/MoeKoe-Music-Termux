@@ -44,3 +44,6 @@
 - ZeroTermux(https://github.com/hanxinhao000/ZeroTermux)
 - Termux(https://github.com/termux/termux-app)
 - Moekoe_music(https://github.com/MoeKoeMusic/MoeKoeMusic)
+
+## 感谢
+-DeepSeek-v4-pro
