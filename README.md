@@ -44,7 +44,7 @@
 - ZeroTermux(https://github.com/hanxinhao000/ZeroTermux)
 - Termux(https://github.com/termux/termux-app)
 - Moekoe_music(https://github.com/MoeKoeMusic/MoeKoeMusic
-- FIClash(https://github.com/chen08209/FlClash)
+- FlClash(https://github.com/chen08209/FlClash)
 
 ## 感谢
 -DeepSeek-v4-pro
