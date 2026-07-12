@@ -7,7 +7,7 @@
 
 - Android 设备（ARM64架构）
 - ZeroTermux（或标准 Termux）
-- 网络连接(Clash/FLClash，国内代理源如清华大学代理源等加速github方案）
+- 网络连接(Clash/FIClash，国内代理源如清华大学代理源等加速github方案）
 - AI软件（可选卡住提问解决方案）
 
 ---
