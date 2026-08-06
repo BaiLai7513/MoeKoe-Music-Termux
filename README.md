@@ -40,6 +40,9 @@
 
 ### PWA 页面
 ![PWA页面](部署成功参考图/pwa页面.png)
+
+### 手机热点下的电脑访问页面
+![手机热点下的电脑访问页面](部署成功参考图/手机热点下的电脑访问页面.jpg)
 ## 使用到的开源项目
 - ZeroTermux(https://github.com/hanxinhao000/ZeroTermux)
 - Termux(https://github.com/termux/termux-app)
